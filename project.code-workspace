@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "🎓 Student Performance Analysis",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.defaultLanguage": "python",
+    "notebook.cellToolbarLocation": {
+      "default": "right"
+    },
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Dark 2026",
+    "notebook.showCellStatusBar": "visible"
+  }
+}
