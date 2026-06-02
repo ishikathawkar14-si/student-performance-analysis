@@ -17,31 +17,6 @@
 
 ---
 
-## 🚀 How to Open in VS Code (Step by Step)
-
-### Step 1 — Install VS Code
-Download from: https://code.visualstudio.com/
-
-### Step 2 — Install Python Extension
-1. Open VS Code
-2. Press `Ctrl+Shift+X` (Extensions)
-3. Search **"Python"** → Install (by Microsoft)
-4. Search **"Jupyter"** → Install (by Microsoft)
-
-### Step 3 — Install Python Libraries
-Open Terminal in VS Code (`Ctrl+`` `) and run:
-```
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### Step 4 — Open the Project
-1. In VS Code: `File → Open Folder`
-2. Select the `Student_Performance_Analysis` folder
-3. Click on `student_analysis.ipynb`
-4. Click **"Run All"** at the top ▶▶
-
----
-
 ## 🔑 Key Results
 
 - 📊 Average Final Grade: **~9.6 / 20**
